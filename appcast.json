@@ -1,11 +1,10 @@
 {
-  "version": "1.1.15",
-  "build": 63,
+  "version": "1.1.16",
+  "build": 64,
   "minOSVersion": "14.0",
-  "releaseNotes": "https://github.com/abhaymundhara/Auvin/releases/tag/v1.1.15",
-  "downloadURL": "https://raw.githubusercontent.com/abhaymundhara/auvin-updates/main/release/Auvin-v1.1.15.zip",
-  "signature": "38SRkHiEywTB4EaLcvNenphsV4i4qkEX9hwcpLlgiTz+wGO/A7nWYsWtwI/HWIi7rByNYQ6e7QeNUSfm+yd8DA==",
-  "size": 57214934,
-  "pubDate": "2026-06-15T20:13:44Z"
+  "releaseNotes": "https://github.com/abhaymundhara/Auvin/releases/tag/v1.1.16",
+  "downloadURL": "https://raw.githubusercontent.com/abhaymundhara/auvin-updates/main/release/Auvin-v1.1.16.zip",
+  "signature": "0y6GJl5UTT21WxA0kSywYA0ccBXkA2xw3snyBKkGw0U1VzVvOdwUZNb9gUkyZo+92wOZasse8eYZjrdVwoFIAw==",
+  "size": 57248670,
+  "pubDate": "2026-06-17T23:36:49Z"
 }
-
